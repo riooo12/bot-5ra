@@ -1,0 +1,6 @@
+﻿token= NjA1ODg2OTY0NTk5NjE5NTg0.XUDphw.VAgiaNTNvI3Om19yZeyfITV_wI8
+owner= 421696591787982848
+prefix= Bk
+game= اBkplay
+stayinchannel=true اذا تريده ميطلع من الروم من تخلص الاغنية لاتغيره
+songinstatus=false اذا تريده يكتب بلبروفايل شنو مشتغل حطه true
