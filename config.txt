@@ -1,0 +1,6 @@
+owner=421696591787982848
+prefix=Bk
+game=Break | Bkplay
+stayinchannel=true
+songinstatus=false
+token=NjA1ODg2OTY0NTk5NjE5NTg0.XUDphw.VAgiaNTNvI3Om19yZeyfITV_wI8
